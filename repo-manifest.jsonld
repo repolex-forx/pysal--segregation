@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/segregation/commit/9a4c6395440143446853997a5d213c47510890d1",
       "git:hexsha": "9a4c6395440143446853997a5d213c47510890d1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:36:07.694239+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/segregation/commit/cc5f5273d2158e8bea345525c8e244cacdf72393",
